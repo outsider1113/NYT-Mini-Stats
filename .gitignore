@@ -1,0 +1,13 @@
+cookies.env
+.env
+.env.*
+*.env
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.envrc
+.ipynb_checkpoints/
+
+
