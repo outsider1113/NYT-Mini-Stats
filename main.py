@@ -21,8 +21,8 @@ BASE_PUZZLE_ID = 20818 # I Just chose 2023-01-01 as the base it increments by 1 
 
 
 # Here choose your start and end date following the format 'YYYY/MM/DD'
-mini_start_date = '2023/01/01'
-mini_end_date = '2023/12/31'
+mini_start_date = '2024/01/01'
+mini_end_date = '2024/12/31'
 
 
 # getting starting puzzle id's  
